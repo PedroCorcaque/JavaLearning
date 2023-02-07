@@ -1,3 +1,4 @@
 [submodule "GameStats"]
 	path = GameStats
 	url = https://github.com/PedroCorcaque/GameStats.git
+
