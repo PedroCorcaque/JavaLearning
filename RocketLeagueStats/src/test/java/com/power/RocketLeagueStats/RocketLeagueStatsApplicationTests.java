@@ -1,10 +1,10 @@
-package com.power.GameStats;
+package com.power.RocketLeagueStats;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GameStatsApplicationTests {
+class RocketLeagueStatsApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,2 +1,8 @@
-package com.power.RocketLeagueStats.model;public class Status {
+package com.power.RocketLeagueStats.model;
+
+public enum Status {
+    NEED_SETUP,
+    SETUP_RUNNING,
+    READY;
+
 }

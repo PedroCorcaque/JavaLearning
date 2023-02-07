@@ -13,7 +13,7 @@ import javax.persistence.Id;
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
-public class AddressStatus {
+public class RLStatsStatus {
 
     public static final int DEFAULT_ID = 1;
     @Id
