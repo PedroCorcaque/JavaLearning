@@ -2,3 +2,6 @@
 	path = GameStats
 	url = https://github.com/PedroCorcaque/GameStats.git
 
+[submodule "Correios-API"]
+	path = Correios-API
+	url = https://github.com/PedroCorcaque/Correios-API.git
